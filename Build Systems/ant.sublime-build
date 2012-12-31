@@ -1,0 +1,22 @@
+{
+	"cmd": ["ant"],
+	"file_regex": "^ *\\[javac\\] (.+):([0-9]+):() (.*)$",
+	"working_dir": "${project_path}",
+	"selector": "source.java",
+
+    "variants": [
+
+        { "cmd": ["ls -l *.py"],
+          "name": "List Python Files",
+          "shell": true
+        },
+
+        { "cmd": ["wc", "$file"],
+          "name": "Word Count (current file)"
+        },
+
+        { "cmd": ["python", "-u", "$file"],
+          "name": "Run"
+        }
+    ]
+}

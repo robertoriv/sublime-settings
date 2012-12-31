@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Cucumber",
+		"Cucumber Step Finder",
+		"EncodingHelper",
+		"Gist",
+		"Indent XML",
+		"Package Control",
+		"RSpec (snippets and syntax)",
+		"RubyTest",
+		"Sass",
+		"SASS Build",
+		"SideBarEnhancements",
+		"SublimeLinter"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeText/EncodingHelper"
+	]
+}
