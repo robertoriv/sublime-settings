@@ -5,6 +5,7 @@
 		"AdvancedNewFile",
 		"Cucumber",
 		"Cucumber Step Finder",
+		"Emmet",
 		"EncodingHelper",
 		"Gist",
 		"Indent XML",
@@ -14,7 +15,8 @@
 		"Sass",
 		"SASS Build",
 		"SideBarEnhancements",
-		"SublimeLinter"
+		"SublimeLinter",
+		"Terminal"
 	],
 	"repositories":
 	[

@@ -1,0 +1,4 @@
+{
+    // use iTerm instead of regular terminal
+    "terminal": "iTerm.sh"
+}
