@@ -3,8 +3,11 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Backbone.js",
 		"Cucumber",
 		"Cucumber Step Finder",
+		"Dayle Rees Color Schemes",
+		"Display Functions (Java)",
 		"Emmet",
 		"EncodingHelper",
 		"Gist",
@@ -15,6 +18,7 @@
 		"Sass",
 		"SASS Build",
 		"SideBarEnhancements",
+		"SublimeJava",
 		"SublimeLinter",
 		"Terminal"
 	],
